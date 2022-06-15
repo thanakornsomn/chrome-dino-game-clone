@@ -6,7 +6,7 @@ import {
 
 const dinoElem = document.querySelector("[data-dino]")
 const JUMP_SPEED = 0.48
-const GRAVITY = 0.0015
+const GRAVITY = 0.0010
 const DINO_FRAME_COUNT = 2
 const FRAME_TIME = 100
 
