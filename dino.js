@@ -14,7 +14,7 @@ let isJumping
 let dinoFrame
 let currentFrameTime
 let yVelocity
-let dinoSkin = "canadian-dino"
+let dinoSkin = "american-dino"
 
 export function setupDino() {
   isJumping = false
